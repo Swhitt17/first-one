@@ -11,4 +11,4 @@ function randomRGB(){
     letter.style.color = randomRGB();
  }
   
- }, 2000);
+ }, 1000);
